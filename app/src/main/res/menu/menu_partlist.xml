@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Refresh"
+        android:orderInCategory="100"
+        android:id="@+id/partrefresh"/>
+    <item android:title="Save Product"
+        android:orderInCategory="100"
+        android:id="@+id/productsave"/>
+    <item android:title="Delete Product"
+        android:orderInCategory="100"
+        android:id="@+id/productdelete"/>
+</menu>
